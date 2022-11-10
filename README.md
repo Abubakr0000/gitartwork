@@ -27,7 +27,7 @@ An example result:
                    user_name: jasineri
                    # Text on contribution graph 
                    text: JASINERI
-              - uses: jasineri/simple-push-action@v1
+              
 
 2. A few moments later it will generate `gitartwork.svg` image in your repository, so then you can include it in your `README.md` like `![gitartwork](gitartwork.svg)`
 3. Have fun :)
